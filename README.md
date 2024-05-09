@@ -55,7 +55,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 git clone https://github.com/incgnto/sustainable-travel.git
-cd sustainable-travel-tips
+cd sustainable_travel
 ```
 
 ```sh
